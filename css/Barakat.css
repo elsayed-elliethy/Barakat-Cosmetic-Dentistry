@@ -238,10 +238,10 @@ header nav .form i {
 }
 @media (max-width: 767px) {
   .landing .text h2 {
-    font-size: 15px;
+    font-size: 22px;
   }
   .landing .text p {
-    font-size: 12px;
+    font-size: 14px;
   }
   .landing .change-background {
     display: none;
