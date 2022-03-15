@@ -239,6 +239,7 @@ header nav .form i {
 @media (max-width: 767px) {
   .landing .text h2 {
     font-size: 22px;
+    color: red;
   }
   .landing .text p {
     font-size: 14px;
