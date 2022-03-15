@@ -214,7 +214,7 @@ header nav .form i {
   color: white;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 767px) {
   .landing .text {
     width: 100%;
     right: 0;
