@@ -109,7 +109,7 @@ let counter = setInterval(() => {
   }
 }, 5000);
 function updateImg() {
-  landingSec.style.cssText = `background-image: url('../images/${
+  landingSec.style.cssText = `background-image: url('images/${
     imgsArr[currentSlide - 1]
   }');`;
 }
